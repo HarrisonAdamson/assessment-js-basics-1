@@ -10,7 +10,7 @@
 */
 
 //CODE HERE
-
+var gitDefinition = 'Used for tracking and documenting code'
 //////////////////PROBLEM 2////////////////////
 /*
     Create a variable called 'gitHubDefinition'.  
@@ -18,7 +18,7 @@
 */
 
 //CODE HERE
-
+var gitHubDefinition = 'Where code that has been tracked and organized by git is uploaded'
 //////////////////PROBLEM 3////////////////////
 /*
     Create a variable called 'gitInitDefinition'.  
@@ -26,6 +26,7 @@
 */
 
 //CODE HERE
+var gitInitDefinition = 'initalizes a local repo in whatever directory you have selected';
 
 //////////////////PROBLEM 4////////////////////
 /*
@@ -34,6 +35,7 @@
 */
 
 //CODE HERE
+var gitCloneDefinition = 'creates a copy of a repo';
 
 //////////////////PROBLEM 5////////////////////
 /*
@@ -42,6 +44,7 @@
 */
 
 //CODE HERE
+var gitStatusDefinition = 'Shows the status of git in your current directory (changes to be commnitted, untracked files';
 
 //////////////////PROBLEM 6////////////////////
 /*
@@ -53,6 +56,8 @@
 */
 
 //CODE HERE
+var gitAddDefinition = 'adds a file to be tracked that is already in the directory';
+var gitAddCode = 'git add --all';
 
 //////////////////PROBLEM 7////////////////////
 /*
@@ -64,6 +69,8 @@
 */
 
 //CODE HERE
+var gitCommitDefinition = 'saves your code and current changes';
+var gitCommitCode = 'git commit -m "initial commit"'
 
 
 //////////////////PROBLEM 8////////////////////
@@ -73,3 +80,4 @@
 */
 
 //CODE HERE
+var gitPushDefinition = 'Pushes code to Github';
